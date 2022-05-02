@@ -1,0 +1,1 @@
+SELECT ( 'Hello, ' || person.name || ' how are you doing today?')  as greeting from person
